@@ -1,2 +1,3 @@
 # sonu_linux
-this is first repo
+this is my first repo
+Auther - jordan mallick
